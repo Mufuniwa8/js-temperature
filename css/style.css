@@ -1,0 +1,15 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-image: url(/images/capetownweather_campsbay_shutterstock_70.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+}
+.container {
+  justify-content: center;
+  text-align: center;
+}
+
+.header {
+  color: white;
+}
